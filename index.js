@@ -24,7 +24,7 @@ function longPlaneteerCalls(words) {
 }
 
 function findTheCheese (foods) {
-  let cheese =['cheddar','gouda','camembert'];
+  let cheese =['cheddar','gouda','camembert','emmenthal'];
   for(var i = 0; i < foods.length; i++){
     for(var j = 0; j < cheese.length; j++){
       if(cheese[j] === foods[i]){
@@ -57,3 +57,8 @@ function longPlaneteerCalls(words) {
 function findTheCheese (foods) {
 }
 >>>>>>> 410ec2151cdb283a62efdf643522be9aabaf02df
+
+function wordswithB (words) {
+  
+}
+
