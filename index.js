@@ -59,6 +59,8 @@ function findTheCheese (foods) {
 >>>>>>> 410ec2151cdb283a62efdf643522be9aabaf02df
 
 function wordswithB (words) {
-  
+  let words = [];
+  for (let i=0; 1<words.lenght i++)
+  if "barn".startsWith("b") 
 }
 
