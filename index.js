@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 function dwarfRollCall(dwarves) {
  let dwarfList = [];
   for(let i = 0; i < dwarves.length;i++){
@@ -35,3 +36,24 @@ function findTheCheese (foods) {
   return 'no cheese!';
 
 }
+=======
+function dwarfRollCall(dwarves) { 
+  let dwarvesList = ['Doc', 'Dopey', 'Bashful', 'Grumpy'];
+  for(let i = 0; i < dwarvesList.length;i++){
+     dwarves.push((i + 1) + ". "+  dwarves[i]);         
+  }
+   dwarvesList.join();
+
+
+}
+
+
+function summonCaptainPlanet(planeteerCalls){
+}
+
+function longPlaneteerCalls(words) {
+}
+
+function findTheCheese (foods) {
+}
+>>>>>>> 410ec2151cdb283a62efdf643522be9aabaf02df
