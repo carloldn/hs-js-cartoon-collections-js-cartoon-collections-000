@@ -61,6 +61,7 @@ function findTheCheese (foods) {
 function wordswithB (words) {
   let words = [];
   for (let i=0; 1<words.lenght i++)
-  if "barn".startsWith("b") 
-}
+  if words[i].startsWith("b") {
+    words.push (words[i])}
+    return words}
 
